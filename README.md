@@ -3,6 +3,8 @@
 
 **Research Question:** How does label scarcity influence the choice between supervised and unsupervised learning for surface defect detection?
 
+**Dataset Source:** https://go.vicos.si/kolektorsdd2
+
 **Methods:**
 1. PCA reconstruction error (unsupervised baseline)
 2. Convolutional Autoencoder with hyperparameter sweep (unsupervised)
