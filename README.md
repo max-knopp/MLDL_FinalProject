@@ -1,6 +1,8 @@
 # Surface Defect Detection on KolektorSDD2
 ## A Comparative Study: PCA vs. Convolutional Autoencoder vs. Supervised CNNs
 
+**Group Members:** Anton Gasenzer (185924), Martin Dieselhorst (185897), Max Knopp (185893)
+
 **Research Question:** How does label scarcity influence the choice between supervised and unsupervised learning for surface defect detection?
 
 **Dataset Source:** https://go.vicos.si/kolektorsdd2
