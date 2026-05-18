@@ -6,6 +6,7 @@
 **Research Question:** How does label scarcity influence the choice between supervised and unsupervised learning for surface defect detection?
 
 **Dataset Source:** https://go.vicos.si/kolektorsdd2
+Please download the original dataset from this link and change the working directory accordingly.
 
 **Methods:**
 1. PCA reconstruction error (unsupervised baseline)
